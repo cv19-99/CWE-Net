@@ -8,7 +8,7 @@ CWE-Net is a modular image restoration architecture designed to handle **single*
 
 - Expert branches for haze, rain, and snow.
 - A weather classifier-based soft routing mechanism.
-- A cross-weather expert (CWE) decoder for composite refinement.
+- Cross-Weather Expert (CWE) Module for Composite Refinement.
 
 <p align="center">
   <img src="figures/qualitative_comparison.png" width="800"/>
