@@ -22,8 +22,7 @@ It features:
 ## 🧪 Model & Code Availability
 - 🔐 Full source code and pretrained weights will be released publicly after the manuscript is accepted for publication.  
 - ✅ Reported figures and results match those presented in the paper.  
-- 📧 For questions, reproducibility, or collaboration requests, please contact:  
-  **Prof. Gyu Sang Choi** – [castchoi@ynu.ac.kr]
+- 📧 For questions, reproducibility, or collaboration requests, please contact:  abc@yu.ac.kr
 
 ---
 
